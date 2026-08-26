@@ -2,7 +2,7 @@
   <img style="width:90%; height:auto" alt="Sistemas de Control" src="./assets/control.png"/> 
 </p>
 
-<h1 align="center">¡Hola! Soy Yahir García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">¡Hola! Soy Yahir Fernando García García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
