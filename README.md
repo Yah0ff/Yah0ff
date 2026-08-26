@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
-Soy estudiante de Maestría en Ingeniería Electrónica en la Universidad Tecnológica de la Mixteca, especializado en Sistemas Inteligentes Aplicados 🎓. Mi investigación se centra en el control sensorless de Motores Síncronos de Imán Permanente (PMSM), desarrollando métodos de estimación de posición inicial mediante inyección de señales de alta frecuencia. Me apasiona la teoría de control, la electrónica de potencia y los sistemas embebidos en tiempo real. 
+Soy Ingeniero en Mecatrónica y estudiante de Maestría en Ingeniería Electrónica en la Universidad Tecnológica de la Mixteca, especializado en Sistemas Inteligentes Aplicados 🎓. Mi investigación se centra en el control sensorless de Motores Síncronos de Imán Permanente (PMSM), desarrollando métodos de estimación de posición inicial mediante inyección de señales de alta frecuencia. Me apasiona la teoría de control, la electrónica de potencia y los sistemas embebidos en tiempo real. 
 
 - 🔬 Actualmente investigo ...
   - Estimación de posición inicial para accionamientos PMSM sin sensores
