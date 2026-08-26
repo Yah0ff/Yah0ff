@@ -46,11 +46,11 @@ Soy Ingeniero en Mecatrónica y estudiante de Maestría en Ingeniería Electrón
 ### <h2>⚙️ Estadísticas de GitHub:</h2> 
 
 <p align="center">
-  <a href="https://github.com/YahirGarcia">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YahirGarcia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Yah0ff">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yah0ff&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/YahirGarcia">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YahirGarcia&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/Yah0ff">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yah0ff&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
