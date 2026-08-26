@@ -54,9 +54,7 @@ Soy Ingeniero en Mecatrónica y estudiante de Maestría en Ingeniería Electrón
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/YahirGarcia/YahirGarcia/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
+
 
 ### 🤝🏻 &nbsp;Conéctate Conmigo
 
@@ -67,8 +65,3 @@ Soy Ingeniero en Mecatrónica y estudiante de Maestría en Ingeniería Electrón
 <a href="https://github.com/YahirGarcia"><img src="https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 
------
-
-Créditos: [YahirGarcia](https://github.com/YahirGarcia)
-
-Última actualización: 25/08/2026
