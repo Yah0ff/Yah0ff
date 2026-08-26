@@ -47,13 +47,12 @@ Soy Ingeniero en Mecatrónica y estudiante de Maestría en Ingeniería Electrón
 
 <p align="center">
   <a href="https://github.com/Yah0ff">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yah0ff&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yah0ff&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=0"/>
   </a>
   <a href="https://github.com/Yah0ff">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yah0ff&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yah0ff&layout=compact&langs_count=8&theme=algolia&cache_seconds=0"/>
   </a>
 </p>
-
 
 
 ### 🤝🏻 &nbsp;Conéctate Conmigo
