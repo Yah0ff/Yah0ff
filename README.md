@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:90%; height:auto" alt="Sistemas de Control" src="./assets/control.png"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
 
 <h1 align="center">¡Hola! Soy Yahir García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
