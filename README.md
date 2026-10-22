@@ -2,16 +2,16 @@
   <img style="width:90%; height:auto" alt="Sistemas de Control" src="./assets/control.png"/> 
 </p>
 
-<h1 align="center">¡Hola! Soy Yahir Fernando García García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">¡Hola! Soy Yahir García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
 Soy Ingeniero en Mecatrónica y estudiante de Maestría en Electrónica en la Universidad Tecnológica de la Mixteca, especializado en Sistemas Inteligentes Aplicados 🎓. Mi investigación se centra en el control sensorless de Motores Síncronos de Imán Permanente (PMSM), desarrollando métodos de estimación de posición inicial mediante inyección de señales de alta frecuencia. Me apasiona la teoría de control, la electrónica de potencia y los sistemas embebidos en tiempo real. 
 
 - 🔬 Actualmente investigo ...
-  - Estimación de posición inicial para accionamientos PMSM sin sensores
+  - Estimación de posición inicial para accionamientos IPMSM sin sensores
   - Técnicas de inyección de señales de alta frecuencia
-  - Implementación en tiempo real en DSP TMS320F28379D
+  - Implementación en tiempo real en dSPACE
 
 - 💡 Disfruto explorar nuevas estrategias de control, métodos numéricos para control óptimo y sistemas embebidos.
 
@@ -35,6 +35,7 @@ Soy Ingeniero en Mecatrónica y estudiante de Maestría en Electrónica en la Un
   ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)&nbsp;
   ![Code Composer Studio](https://img.shields.io/badge/Code%20Composer%20Studio-00599C?style=for-the-badge&logo=texas-instruments&logoColor=white)&nbsp;
+  ![dSPACE](https://img.shields.io/badge/dSPACE-00599C?style=for-the-badge&logo=data:image/svg%2bxml;base64,TU_CODIGO_BASE64_AQUI&logoColor=white)
 
 ### 🧰 &nbsp;Otras Herramientas 
 
