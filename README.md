@@ -42,7 +42,6 @@ Soy Ingeniero en Mecatrónica y estudiante de Maestría en Electrónica en la Un
   ![Eagle](https://img.shields.io/badge/Eagle-FF0000?style=for-the-badge&logo=autodesk&logoColor=white)&nbsp;
   ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassault-systemes&logoColor=white)&nbsp;
   ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF0000?style=for-the-badge&logo=autodesk&logoColor=white)&nbsp;
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 ### <h2>⚙️ Estadísticas de GitHub:</h2> 
 
@@ -58,7 +57,7 @@ Soy Ingeniero en Mecatrónica y estudiante de Maestría en Electrónica en la Un
 ### 🤝🏻 &nbsp;Conéctate Conmigo
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yahir-garcia/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yahir-garcia/"><img src="www.linkedin.com/in/yahir-g-9397b4114/"/></a>
 <a href="mailto:yahoff.gg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white"/></a>
 <a href="https://github.com/YahirGarcia"><img src="https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
