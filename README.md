@@ -46,13 +46,36 @@ Soy Ingeniero en Mecatrónica y estudiante de Maestría en Electrónica en la Un
 ### <h2>⚙️ Estadísticas de GitHub:</h2> 
 
 <p align="center">
-  <a href="https://github.com/Yah0ff">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yah0ff&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Yah0ff">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yah0ff&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yah0ff&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yah0ff&theme=github">
+  <img alt="Gráfica de actividad de Yah0ff" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yah0ff&theme=github" width="100%">
+</picture>
 </p>
+
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github_dark/3-stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github/3-stats.svg">
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github/3-stats.svg" width="100%">
+</picture>
+    </td>
+    <td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github/2-most-commit-language.svg">
+  <img alt="Languages by commits" src="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github/2-most-commit-language.svg" width="100%">
+</picture>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ### 🤝🏻 &nbsp;Conéctate Conmigo
 
@@ -61,4 +84,5 @@ Soy Ingeniero en Mecatrónica y estudiante de Maestría en Electrónica en la Un
 <a href="mailto:yahoff.gg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/YahirGarcia"><img src="https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
+
 
