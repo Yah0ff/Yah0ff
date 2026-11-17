@@ -23,25 +23,32 @@ Soy Ingeniero en Mecatrónica y estudiante de Maestría en Electrónica en la Un
 
   ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)&nbsp;
   ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)&nbsp;
+  ![PSIM](https://img.shields.io/badge/PSIM-FF6F00?style=for-the-badge&logo=power-sim&logoColor=white)&nbsp;
+  ![LTspice](https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge&logo=analog-devices&logoColor=white)&nbsp;
+  ![FluidSim](https://img.shields.io/badge/FluidSim-0078D7?style=for-the-badge&logo=fluid-sim&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-  ![PSIM](https://img.shields.io/badge/PSIM-FF6F00?style=for-the-badge&logo=power-sim&logoColor=white)&nbsp;
-  ![FluidSim](https://img.shields.io/badge/FluidSim-0078D7?style=for-the-badge&logo=fluid-sim&logoColor=white)&nbsp;
 
 ### 🗃 &nbsp;Sistemas Embebidos y Procesamiento Digital
-  
+
   ![TMS320F28379D](https://img.shields.io/badge/TMS320F28379D-00599C?style=for-the-badge&logo=texas-instruments&logoColor=white)&nbsp;
+  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)&nbsp;
+  ![FPGA](https://img.shields.io/badge/FPGA-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)&nbsp;
   ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)&nbsp;
+  ![dSPACE](https://img.shields.io/badge/dSPACE-00599C?style=for-the-badge&logoColor=white)&nbsp;
+  ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)&nbsp;
+  ![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)&nbsp;
   ![Code Composer Studio](https://img.shields.io/badge/Code%20Composer%20Studio-00599C?style=for-the-badge&logo=texas-instruments&logoColor=white)&nbsp;
-  ![dSPACE](https://img.shields.io/badge/dSPACE-00599C?style=for-the-badge&logo=data:image/svg%2bxml;base64,TU_CODIGO_BASE64_AQUI&logoColor=white)
 
-### 🧰 &nbsp;Otras Herramientas 
+### 🧰 &nbsp;Diseño, CAD y Documentación
 
   ![Eagle](https://img.shields.io/badge/Eagle-FF0000?style=for-the-badge&logo=autodesk&logoColor=white)&nbsp;
   ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassault-systemes&logoColor=white)&nbsp;
   ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF0000?style=for-the-badge&logo=autodesk&logoColor=white)&nbsp;
+  ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black)&nbsp;
+  ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 
 ### <h2>⚙️ Estadísticas de GitHub:</h2> 
 
