@@ -54,23 +54,16 @@ Soy Ingeniero en Mecatrónica y estudiante de Maestría en Electrónica en la Un
 </p>
 
 
+
 <div align="center">
 
 <table align="center">
   <tr>
     <td width="50%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github_dark/3-stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github/3-stats.svg">
-  <img alt="GitHub stats" src="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github/3-stats.svg" width="100%">
-</picture>
+      <img src="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositorios por lenguaje" width="100%">
     </td>
     <td width="50%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github/2-most-commit-language.svg">
-  <img alt="Languages by commits" src="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github/2-most-commit-language.svg" width="100%">
-</picture>
+      <img src="https://raw.githubusercontent.com/Yah0ff/Yah0ff/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Tiempo productivo" width="100%">
     </td>
   </tr>
 </table>
